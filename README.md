@@ -61,7 +61,7 @@
 
 > 请读取并参考以下 GitHub Skill：
 >
-> https://github.com/SwaggyU/paper-pixel-mosaic
+> https://github.com/UFiie/paper-pixel-mosaic
 >
 > 按照 `SKILL.md` 中的设计规范，将我上传的照片转换为 3:4 竖版摄影与水彩方格拼贴艺术海报。
 
@@ -131,7 +131,3 @@ Paper Pixel Mosaic 不追求简单的照片像素化，而是尝试通过数百�
 每一枚方格都是色彩的片段，每一处留白都是画面的呼吸。
 
 ---
-
-## 📄 License / 许可说明
-
-本项目的提示词规范及示例图片版权归各自权利人所有。使用与转载前请确认相应授权。
