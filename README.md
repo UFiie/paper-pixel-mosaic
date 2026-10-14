@@ -27,22 +27,6 @@
 
 ![Paper Pixel Mosaic Example 01](assets/p1%20%281%29.png)
 
-### Example 02
-
-![Paper Pixel Mosaic Example 02](assets/p1%20%282%29.jpg)
-
-### Example 03
-
-![Paper Pixel Mosaic Example 03](assets/p1%20%283%29.jpg)
-
-### Example 04
-
-![Paper Pixel Mosaic Example 04](assets/p1%20%284%29.jpg)
-
-### Example 05
-
-![Paper Pixel Mosaic Example 05](assets/p1%20%285%29.jpg)
-
 ---
 
 ## 🌿 Core Features / 核心特色
